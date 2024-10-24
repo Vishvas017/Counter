@@ -1,0 +1,17 @@
+body
+{
+  background-color: navy;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1
+{
+  font-size: 38px;
+  color: white;
+}
+button
+{
+  margin: auto;
+  height: 40px;
+  width: 30px;
+  font-weight: bold;
+}
